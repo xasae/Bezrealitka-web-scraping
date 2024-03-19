@@ -4,9 +4,10 @@ My objective is to gather structured data from the first 3 pages in https://www.
 The data that was acquired through web scraping:
 1) Location (districts and streets), 
 2) Number of rooms (room_num),
-3) Open-Plan Kitchen, kk or +1 (is_studio),
-4) Rent price (prices),
-5) Additional fees (fees)
+3) Area of the apartment (area)
+4) Open-Plan Kitchen, kk or +1 (is_studio),
+5) Rent price (prices),
+6) Additional fees (fees)
 
 Performed data cleaning operations to remove unwanted characters, whitespace, or HTML tags.
 
